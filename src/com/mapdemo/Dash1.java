@@ -27,7 +27,7 @@ public class Dash1 {
 			  
 		  }
 	   }
-System.out.println(even);
+System.out.println("Even"+even);
 System.out.println(odd);
 	}
 	}
